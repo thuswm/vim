@@ -54,6 +54,7 @@ filetype plugin indent on    " required
 " ============
 filetype plugin on
 filetype indent on
+syntax on
 
 if has("autocmd")
   " Enable file type detection.
